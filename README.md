@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @joeyvigil
-- 👀 I’m interested in league of legends
+- 👀 I’m interested in Java and Angular Apps
 - 🌱 I’m currently learning chess
-- 💞️ I’m looking to collaborate on your mom
 - 📫 How to reach me by email joeygvigil@gmail.com  
 
 <!---
