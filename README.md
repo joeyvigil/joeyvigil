@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joeyvigil
 - 👀 I’m interested in Java and Angular Apps
-- 🌱 I’m currently learning chess
+- 🎲🎲🎲 I’m currently Making Board Games 
 - 📫 How to reach me by email joeygvigil@gmail.com  
 
 <!---
