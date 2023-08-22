@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @joeyvigil
 - 👀 I’m interested in Java and Angular Apps
 - 🎲🎲🎲 I’m currently Making Board Games 
-- 📫 How to reach me by email joeygvigil@gmail.com  
+- 📫 How to reach me by email joeyvigil109329@gmail.com
 
 <!---
 joeyvigil/joeyvigil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
