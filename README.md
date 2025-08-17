@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joeyvigil
-- 👀 I’m interested in Java and Angular Apps
+- 👀 I’m interested in Python and Flask apps
 - 🎲🎲🎲 I’m currently Making Board Games 
 - 📫 How to reach me by email joeyvigil109329@gmail.com
 
