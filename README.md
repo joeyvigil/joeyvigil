@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @joeyvigil
-- 👀 I’m interested in Python and Flask apps
-- 🎲🎲🎲 I’m currently Making Board Games 
-- 📫 How to reach me by email joeyvigil109329@gmail.com
+- 💻 Frontend: React
+- 🗃️ Backend: Flask, FastAPI, LangChain, LangGraph
+- 🎲 I like Making Board Games 
+- 📫 How to reach me by email: joeygvigil@gmail.com
 
 ![codewars](https://www.codewars.com/users/joeyvigil/badges/large)
 
