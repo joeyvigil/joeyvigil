@@ -25,6 +25,3 @@ Welcome to my GitHub profile! I'm a passionate and versatile software engineer w
 ### 🛠️ **Tech Stack & Specialties**
 
 [![My Skills](https://skillicons.dev/icons?i=ai,angular,arduino,autocad,aws,bash,bootstrap,css,docker,fastapi,flask,gcp,git,github,githubactions,html,java,jenkins,js,linkedin,linux,materialui,matlab,nodejs,npm,postman,postgres,py,r,react,spring,sqlite,tailwind,ts,vercel,vscode&perline=18)](https://skillicons.dev)
-
-![codewars](https://www.codewars.com/users/joeyvigil/badges/large)
-
