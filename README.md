@@ -6,7 +6,7 @@
 
 ### AI Engineer | Full Stack Developer | Mechatronics Engineer
 
-Welcome to my GitHub profile! I'm a passionate and versatile software engineer with expertise in AI/ML, full-stack development, and mobile engineering. I thrive on solving complex problems and creating innovative solutions that make a difference. With a strong background in both frontend and backend technologies, I enjoy building scalable applications that deliver exceptional user experiences. Let's connect and collaborate on exciting projects!
+Welcome to my GitHub profile! I'm a multidisciplinary developer with a passion for building innovative products that combine technical depth with creativity. With a background in AI engineering, full-stack web development, and mechatronics, I enjoy working on projects that push the boundaries of technology and user experience.
 </div>
 
 ---
