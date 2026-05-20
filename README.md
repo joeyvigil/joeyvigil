@@ -1,45 +1,30 @@
-- 👋 Hi, I’m @joeyvigil
-- 💻 Frontend: React
-- 🗃️ Backend: Flask, FastAPI, LangChain, LangGraph
-- 🎲 I like Making Board Games 
-- 📫 How to reach me by email: joeygvigil@gmail.com
-
-![codewars](https://www.codewars.com/users/joeyvigil/badges/large)
-
-[![My Skills](https://skillicons.dev/icons?i=ai,angular,arduino,autocad,aws,bash,bootstrap,css,docker,fastapi,flask,gcp,git,github,githubactions,html,java,jenkins,js,linkedin,linux,materialui,matlab,nodejs,npm,postman,postgres,py,r,react,spring,sqlite,tailwind,ts,vercel,vscode&perline=18)](https://skillicons.dev)
-
 <div align="center">
 
-![Profile Banner](assets/final_showcase.png)
+![Profile Banner](assets/room.png)
 
-# Hi there, this is Philipx! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-### Senior AI/ML Engineer | Full Stack Engineer | Mobile Engineer
+### AI Engineer | Full Stack Developer | Mechatronics Engineer
 
-Welcome to my GitHub!
-I’m an **AI/ML** and **Full Stack** engineer who loves turning ideas into real, usable products.
-I build things across **web**, **mobile**, and **AI**, from **chatbots** and **agents** to full apps people actually use.
-If it can be automated or made smarter, I’m probably interested.
+Welcome to my GitHub profile! I'm a passionate and versatile software engineer with expertise in AI/ML, full-stack development, and mobile engineering. I thrive on solving complex problems and creating innovative solutions that make a difference. With a strong background in both frontend and backend technologies, I enjoy building scalable applications that deliver exceptional user experiences. Let's connect and collaborate on exciting projects!
 </div>
 
 ---
 
 ### 🚀 **About Me**
 
-* **AI/ML, Full-Stack & Mobile Engineer** with **8+ years** of professional experience building and shipping production software.
-* Experienced in developing **AI-powered applications**, scalable **web platforms**, and **cross-platform mobile apps** using **Python**, **TypeScript**, **React**, **Next.js**, **Node.js**, **Flutter**, and **React Native**.
-* Built and deployed real-world systems including **AI chatbots**, **RAG pipelines**, **automation tools**, and **end-to-end SaaS products** across **AI**, **FinTech**, **Healthcare**, **Web3**, **E-commerce**, and **Enterprise SaaS** domains.
-* Strong background in **backend and infrastructure**, with hands-on experience in **FastAPI**, **Django**, **NestJS**, **PostgreSQL**, **Redis**, **Docker**, **Linux**, **AWS**, and **Vercel**.
-* Focused on building systems **end to end** — from **model integration** and **APIs** to **UI**, **data flow**, and **deployment**, with an emphasis on **scalability**, **performance**, and **maintainability**.
-* Comfortable leading projects, mentoring engineers, and making technical decisions, while keeping solutions **clean**, **practical**, and **production-ready**.
+- **Multidisciplinary Developer**: Software developer and engineer with a background in **AI engineering**, **full-stack web development**, and **mechatronics**
+- **Experience**: Building modern web applications, developing AI-powered tools, deploying cloud infrastructure, and creating interactive user experiences
+- **Tech Expertise**: Python, FastAPI, React, TypeScript, Docker, GCP, AWS, PostgreSQL, and modern frontend frameworks
+- **AI Focus**: Recently focused heavily on generative AI applications using **LangChain**, **LangGraph**, **Ollama**, **Vector Databases**, and **Vertex AI**
+- **Engineering Background**: **Master's degree in Mechatronics Engineering** with experience in robotics, embedded systems, CAD design, and material research
+- **Products**: Building products that combine technical depth with creativity, including AI tools, web platforms, and board game projects through **Squeak Inc. Games**
+
+
 
 ### 🛠️ **Tech Stack & Specialties**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=aiscript,pytorch,tensorflow,c,cpp,python,cs,ts,react,vite,next,tailwind,mui,figma" />
-  </a>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,nest,fastapi,django,flutter,kotlin,androidstudio,postgres,docker,dotnet,jenkins,aws,azure" />
-  </a>
-</p>
+[![My Skills](https://skillicons.dev/icons?i=ai,angular,arduino,autocad,aws,bash,bootstrap,css,docker,fastapi,flask,gcp,git,github,githubactions,html,java,jenkins,js,linkedin,linux,materialui,matlab,nodejs,npm,postman,postgres,py,r,react,spring,sqlite,tailwind,ts,vercel,vscode&perline=18)](https://skillicons.dev)
+
+![codewars](https://www.codewars.com/users/joeyvigil/badges/large)
+
