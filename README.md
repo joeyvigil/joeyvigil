@@ -6,7 +6,7 @@
 
 ### AI Engineer | Full Stack Developer | Mechatronics Engineer
 
-Welcome to my GitHub profile! I'm a multidisciplinary developer with a passion for building innovative products that combine technical depth with creativity. With a background in AI engineering, full-stack web development, and mechatronics, I enjoy working on projects that push the boundaries of technology and user experience.
+I'm a developer with a Master's in Mechatronics Engineering who likes to **ship things that actually run in production** — full-stack web, mobile, AI-powered tools, and the occasional piece of hardware. These days I work terminal-first and AI-paired (Arch/Omarchy + Claude Code on the CLI), which has made me faster and shifted more of the work toward architecture and judgment.
 </div>
 
 ---
@@ -25,15 +25,12 @@ Welcome to my GitHub profile! I'm a multidisciplinary developer with a passion f
 
 ### 🚀 **About Me**
 
-- **Multidisciplinary Developer**: Software developer and engineer with a background in **AI engineering**, **full-stack web development**, and **mechatronics**
-- **Experience**: Building modern web applications, developing AI-powered tools, deploying cloud infrastructure, and creating interactive user experiences
-- **Tech Expertise**: Python, FastAPI, React, TypeScript, Docker, GCP, AWS, PostgreSQL, and modern frontend frameworks
-- **AI Focus**: Recently focused heavily on generative AI applications using **LangChain**, **LangGraph**, **Ollama**, **Vector Databases**, and **Vertex AI**
-- **Engineering Background**: **Master's degree in Mechatronics Engineering** with experience in robotics, embedded systems, CAD design, and material research
-- **Products**: Building products that combine technical depth with creativity, including AI tools, web platforms, and board game projects through **Squeak Inc. Games**
+- 🟢 Recently shipped **[Charmed](https://github.com/joeyvigil/charmed-dating)** — a full-stack dating app (FastAPI · React · React Native · real-time WebSockets), live in production on a $0 cloud stack with 122 tests + CI
+- 🤖 **AI Engineer** — built LLM-powered apps and tools with **LangChain**, **LangGraph**, **Ollama**, and vector databases
+- 🔧 **Master's in Mechatronics Engineering** — robotics, embedded systems, CAD, and 3D printing (see **[k3yb0rg](https://github.com/joeyvigil/k3yb0rg)**)
+- 🐍 Full-stack end to end: Python/FastAPI back ends, React/React Native front ends, Postgres, Docker, and small deploys on **AWS** — with CI
+- 🎲 Building small products through **[Squeak Inc. Games](https://squeakincgames.com/)**
 
+### 🛠️ **Tech Stack**
 
-
-### 🛠️ **Tech Stack & Specialties**
-
-[![My Skills](https://skillicons.dev/icons?i=ai,angular,arduino,autocad,aws,bash,bootstrap,css,docker,fastapi,flask,gcp,git,github,githubactions,html,java,jenkins,js,linkedin,linux,materialui,matlab,nodejs,npm,postman,postgres,py,r,react,spring,sqlite,tailwind,ts,vercel,vscode&perline=18)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,fastapi,flask,js,ts,react,nodejs,postgres,sqlite,docker,aws,git,github,githubactions,linux,bash,tailwind,html,css,arduino,vercel,vscode&perline=12)](https://skillicons.dev)
