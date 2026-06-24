@@ -11,6 +11,18 @@ Welcome to my GitHub profile! I'm a multidisciplinary developer with a passion f
 
 ---
 
+### ✨ **Featured Project — [Charmed](https://github.com/joeyvigil/charmed-dating)**
+
+**A free, no-swipe dating app — search for people by what matters to you and message anyone.** A React web app and a React Native mobile app share one **FastAPI** backend and a single real-time WebSocket, running in production on a **$0 cloud stack**.
+
+🔗 **[Live demo](https://charmed.lol)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/charmed-dating)** &nbsp;·&nbsp; FastAPI · React · React Native · Postgres · WebSockets · 122 tests
+
+<a href="https://github.com/joeyvigil/charmed-dating">
+  <img src="https://raw.githubusercontent.com/joeyvigil/charmed-dating/main/docs/charmed-demo.gif" alt="Charmed — landing, search, profiles, and real-time chat" width="100%">
+</a>
+
+---
+
 ### 🚀 **About Me**
 
 - **Multidisciplinary Developer**: Software developer and engineer with a background in **AI engineering**, **full-stack web development**, and **mechatronics**
