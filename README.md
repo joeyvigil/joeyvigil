@@ -33,4 +33,4 @@ I'm a developer with a Master's in Mechatronics Engineering who likes to **ship 
 
 ### 🛠️ **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,fastapi,flask,js,ts,react,nodejs,postgres,sqlite,docker,aws,git,github,githubactions,linux,bash,tailwind,html,css,arduino,vercel,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,fastapi,flask,js,ts,react,vite,nodejs,postgres,sqlite,docker,aws,git,github,githubactions,linux,bash,tailwind,html,css,arduino,vercel,vscode&perline=12)](https://skillicons.dev)
