@@ -23,6 +23,61 @@ I'm a developer with a Master's in Mechatronics Engineering who likes to **ship 
 
 ---
 
+### 🧰 **More Projects**
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### 📝 [LaTeX Editor](https://joeyvigil.github.io/latex-editor/)
+
+<a href="https://joeyvigil.github.io/latex-editor/"><img src="assets/latex-editor.png" width="100%" alt="LaTeX Editor — building blocks, editor, and live preview"></a>
+
+A beginner-friendly, **in-browser LaTeX editor** for people who don't know LaTeX — a clickable palette of building blocks, live preview, and a real **pdfLaTeX** compile that runs entirely in your browser via WebAssembly. No install, no backend.
+
+**[Live demo](https://joeyvigil.github.io/latex-editor/)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/latex-editor)** &nbsp;·&nbsp; React · TS · Vite · WASM
+
+</td>
+<td width="50%" valign="top">
+
+#### 🏰 Dan's Labyrinth — Tower Defense
+
+<img src="assets/dans-labyrinth.png" width="100%" alt="Dan's Labyrinth — Tower Defense">
+
+A **maze / tower-defense mobile game** built in **Godot 4.6** — your towers act as walls and enemies pathfind through the gaps. A 20-level hand-authored campaign, 10 distinct towers, infinite escalating waves, boss rounds, and a global leaderboard.
+
+Godot 4.6 · Mobile · Closed-source
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🤖 [joey-bot](https://github.com/joeyvigil/discord-bot)
+
+<a href="https://github.com/joeyvigil/discord-bot"><img src="https://raw.githubusercontent.com/joeyvigil/discord-bot/master/docs/screenshots/help.png" width="100%" alt="joey-bot — Discord slash-command bot"></a>
+
+A **Discord bot** built with discord.py using slash commands — games, live button polls, trivia, tic-tac-toe, and API-powered toys. Dockerized and deployed on **Fly.io**.
+
+**[Invite it](https://discord.com/oauth2/authorize?client_id=1516042370439839784)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/discord-bot)** &nbsp;·&nbsp; Python · discord.py · Docker · Fly.io
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧬 [sql-to-rest](https://joeyvigil.github.io/sql-to-rest/)
+
+<a href="https://joeyvigil.github.io/sql-to-rest/"><img src="https://raw.githubusercontent.com/joeyvigil/sql-to-rest/main/docs/screenshot.png" width="100%" alt="sql-to-rest — SQL schema to FastAPI app"></a>
+
+Paste SQL `CREATE TABLE` statements and get back a **runnable FastAPI app** — SQLAlchemy models, Pydantic schemas, and per-table CRUD routers (optional Docker + pytest), downloadable as a `.zip`.
+
+**[Live demo](https://joeyvigil.github.io/sql-to-rest/)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/sql-to-rest)** &nbsp;·&nbsp; React · TS · FastAPI codegen
+
+</td>
+</tr>
+</table>
+
+---
+
 ### 🚀 **About Me**
 
 - 🟢 Recently shipped **[Charmed](https://github.com/joeyvigil/charmed-dating)** — a full-stack dating app (FastAPI · React · React Native · real-time WebSockets), live in production on a $0 cloud stack with 122 tests + CI
