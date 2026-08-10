@@ -40,13 +40,13 @@ A beginner-friendly, **in-browser LaTeX editor** for people who don't know LaTeX
 </td>
 <td width="50%" valign="top">
 
-#### 🏰 Dan's Labyrinth — Tower Defense
+#### 🏰 [Dan's Labyrinth — Tower Defense](https://play.google.com/store/apps/details?id=com.joeyvigil.danslabyrinth)
 
-<img src="assets/dans-labyrinth.png" width="100%" alt="Dan's Labyrinth — Tower Defense">
+<a href="https://play.google.com/store/apps/details?id=com.joeyvigil.danslabyrinth"><img src="assets/dans-labyrinth.png" width="100%" alt="Dan's Labyrinth — Tower Defense"></a>
 
-A **maze / tower-defense mobile game** built in **Godot 4.6** — your towers act as walls and enemies pathfind through the gaps. A 20-level hand-authored campaign, 10 distinct towers, infinite escalating waves, boss rounds, and a global leaderboard.
+A **maze / tower-defense mobile game** built in **Godot 4.6** — your towers act as walls and enemies pathfind through the gaps. A 20-level hand-authored campaign, 10 distinct towers, infinite escalating waves, boss rounds, and a global leaderboard. **Now live on Google Play.**
 
-Godot 4.6 · Mobile · Closed-source
+**[Get it on Google Play](https://play.google.com/store/apps/details?id=com.joeyvigil.danslabyrinth)** &nbsp;·&nbsp; Godot 4.6 · Android · Closed-source
 
 </td>
 </tr>
