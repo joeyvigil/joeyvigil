@@ -7,6 +7,11 @@
 ### AI Engineer | Full Stack Developer | Mechatronics Engineer
 
 I'm a developer with a Master's in Mechatronics Engineering who likes to **ship things that actually run in production** — full-stack web, mobile, AI-powered tools, and the occasional piece of hardware. These days I work terminal-first and AI-paired (Arch/Omarchy + Claude Code on the CLI), which has made me faster and shifted more of the work toward architecture and judgment.
+
+### 🖥️ **[joeyvigil.github.io](https://joeyvigil.github.io)** — my portfolio
+
+A developer portfolio that reads like a terminal session on an Arch box — Waybar status bar, tiled windows, nine themes, and a **real shell** you can type into (press <kbd>`</kbd>).
+
 </div>
 
 ---
@@ -84,6 +89,7 @@ Paste SQL `CREATE TABLE` statements and get back a **runnable FastAPI app** — 
 - 🤖 **AI Engineer** — built LLM-powered apps and tools with **LangChain**, **LangGraph**, **Ollama**, and vector databases
 - 🔧 **Master's in Mechatronics Engineering** — robotics, embedded systems, CAD, and 3D printing (see **[k3yb0rg](https://github.com/joeyvigil/k3yb0rg)**)
 - 🐍 Full-stack end to end: Python/FastAPI back ends, React/React Native front ends, Postgres, Docker, and small deploys on **AWS** — with CI
+- 🖥️ My **[portfolio](https://joeyvigil.github.io)** is a terminal-flavored site built from scratch — React 19 · TypeScript · Vite · Tailwind v4, no UI library, no tracking (**[source](https://github.com/joeyvigil/joeyvigil.github.io)**)
 - 🎲 Building small products through **[Squeak Inc. Games](https://squeakincgames.com/)**
 
 ### 🛠️ **Tech Stack**
