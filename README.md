@@ -12,6 +12,10 @@ I'm a developer with a Master's in Mechatronics Engineering who likes to **ship 
 
 A developer portfolio that reads like a terminal session on an Arch box — Waybar status bar, tiled windows, nine themes, and a **real shell** you can type into (press <kbd>`</kbd>).
 
+<a href="https://joeyvigil.github.io">
+  <img src="assets/portfolio.gif" alt="joeyvigil.github.io — a tour through the sections, the built-in shell running neofetch, and live theme switching" width="100%">
+</a>
+
 </div>
 
 ---
