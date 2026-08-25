@@ -6,7 +6,7 @@
 
 ### AI Engineer | Full Stack Developer | Mechatronics Engineer
 
-I'm a developer with a Master's in Mechatronics Engineering who likes to **ship things that actually run in production** — full-stack web, mobile, AI-powered tools, and the occasional piece of hardware. These days I work terminal-first and AI-paired (Arch/Omarchy + Claude Code on the CLI), which has made me faster and shifted more of the work toward architecture and judgment.
+I'm a developer with a Master's in Mechatronics Engineering who likes to **ship things that actually run in production** — full-stack web, mobile, AI-powered tools, and the occasional piece of hardware. I work terminal-first and AI-paired (Arch/Omarchy + Claude Code on the CLI), which keeps more of the work on architecture and judgment.
 
 ### 🖥️ **[joeyvigil.github.io](https://joeyvigil.github.io)** — my portfolio
 
@@ -20,22 +20,21 @@ A developer portfolio that reads like a terminal session on an Arch box — Wayb
 
 ---
 
-### ✨ **Featured Project — [Charmed](https://github.com/joeyvigil/charmed-dating)**
-
-**A free, no-swipe dating app — search for people by what matters to you and message anyone.** A React web app and a React Native mobile app share one **FastAPI** backend and a single real-time WebSocket, running in production on a **$0 cloud stack**.
-
-🔗 **[Live demo](https://charmed.lol)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/charmed-dating)** &nbsp;·&nbsp; FastAPI · React · React Native · Postgres · WebSockets · 122 tests
-
-<a href="https://github.com/joeyvigil/charmed-dating">
-  <img src="https://raw.githubusercontent.com/joeyvigil/charmed-dating/main/docs/charmed-demo.gif" alt="Charmed — landing, search, profiles, and real-time chat" width="100%">
-</a>
-
----
-
-### 🧰 **More Projects**
+### 🧰 **Projects**
 
 <table>
 <tr>
+<td width="50%" valign="top">
+
+#### 💘 [Charmed](https://github.com/joeyvigil/charmed-dating)
+
+<a href="https://github.com/joeyvigil/charmed-dating"><img src="https://raw.githubusercontent.com/joeyvigil/charmed-dating/main/docs/charmed-demo.gif" width="100%" alt="Charmed — landing, search, profiles, and real-time chat"></a>
+
+**A free, no-swipe dating app** — search for people by what matters to you and message anyone. A React web app and a React Native mobile app share one **FastAPI** backend and a single real-time WebSocket, running in production on a **$0 cloud stack**.
+
+**[Live demo](https://charmed.lol)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/charmed-dating)** &nbsp;·&nbsp; FastAPI · React · React Native · Postgres · WebSockets · 122 tests
+
+</td>
 <td width="50%" valign="top">
 
 #### 📝 [LaTeX Editor](https://joeyvigil.github.io/latex-editor/)
@@ -47,19 +46,19 @@ A beginner-friendly, **in-browser LaTeX editor** for people who don't know LaTeX
 **[Live demo](https://joeyvigil.github.io/latex-editor/)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/latex-editor)** &nbsp;·&nbsp; React · TS · Vite · WASM
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🏰 [Dan's Labyrinth — Tower Defense](https://play.google.com/store/apps/details?id=com.joeyvigil.danslabyrinth)
 
 <a href="https://play.google.com/store/apps/details?id=com.joeyvigil.danslabyrinth"><img src="assets/dans-labyrinth.png" width="100%" alt="Dan's Labyrinth — Tower Defense"></a>
 
-A **maze / tower-defense mobile game** built in **Godot 4.6** — your towers act as walls and enemies pathfind through the gaps. A 20-level hand-authored campaign, 10 distinct towers, infinite escalating waves, boss rounds, and a global leaderboard. **Now live on Google Play.**
+A **maze / tower-defense mobile game** built in **Godot 4.6** — your towers act as walls and enemies pathfind through the gaps. A 20-level hand-authored campaign, 10 distinct towers, infinite escalating waves, boss rounds, and a global leaderboard. **Live on Google Play.**
 
 **[Get it on Google Play](https://play.google.com/store/apps/details?id=com.joeyvigil.danslabyrinth)** &nbsp;·&nbsp; Godot 4.6 · Android · Closed-source
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 #### 🤖 [joey-bot](https://github.com/joeyvigil/discord-bot)
@@ -71,6 +70,8 @@ A **Discord bot** built with discord.py using slash commands — games, live but
 **[Invite it](https://discord.com/oauth2/authorize?client_id=1516042370439839784)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/discord-bot)** &nbsp;·&nbsp; Python · discord.py · Docker · Fly.io
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 #### 🧬 [sql-to-rest](https://joeyvigil.github.io/sql-to-rest/)
@@ -82,6 +83,17 @@ Paste SQL `CREATE TABLE` statements and get back a **runnable FastAPI app** — 
 **[Live demo](https://joeyvigil.github.io/sql-to-rest/)** &nbsp;·&nbsp; **[Source](https://github.com/joeyvigil/sql-to-rest)** &nbsp;·&nbsp; React · TS · FastAPI codegen
 
 </td>
+<td width="50%" valign="top">
+
+#### 📻 radi.sh — Terminal Internet Radio
+
+<img src="assets/radish.png" width="100%" alt="radi.sh — 50,000 radio stations, behind a command line">
+
+A **terminal-aesthetic radio player** for Android — ~50,000 stations from the community Radio Browser directory, driven by a vim-style `:` command line. A **real** 512-point FFT spectrum analyser drawn from decoded PCM, now-playing titles read straight off the ICY stream, background playback with lock-screen controls, and 32 colour themes. 13 runtime dependencies — no UI kit, no state library, no nav library.
+
+Android · React Native · Expo SDK 57 · TypeScript · Closed-source
+
+</td>
 </tr>
 </table>
 
@@ -89,7 +101,7 @@ Paste SQL `CREATE TABLE` statements and get back a **runnable FastAPI app** — 
 
 ### 🚀 **About Me**
 
-- 🟢 Recently shipped **[Charmed](https://github.com/joeyvigil/charmed-dating)** — a full-stack dating app (FastAPI · React · React Native · real-time WebSockets), live in production on a $0 cloud stack with 122 tests + CI
+- 🟢 **[Charmed](https://github.com/joeyvigil/charmed-dating)** — a full-stack dating app (FastAPI · React · React Native · real-time WebSockets), live in production on a $0 cloud stack with 122 tests + CI
 - 🤖 **AI Engineer** — built LLM-powered apps and tools with **LangChain**, **LangGraph**, **Ollama**, and vector databases
 - 🔧 **Master's in Mechatronics Engineering** — robotics, embedded systems, CAD, and 3D printing (see **[k3yb0rg](https://github.com/joeyvigil/k3yb0rg)**)
 - 🐍 Full-stack end to end: Python/FastAPI back ends, React/React Native front ends, Postgres, Docker, and small deploys on **AWS** — with CI
