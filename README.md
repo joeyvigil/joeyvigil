@@ -12,6 +12,8 @@ I'm a developer with a Master's in Mechatronics Engineering who likes to **ship 
 
 A developer portfolio that reads like a terminal session on an Arch box — Waybar status bar, tiled windows, nine themes, and a **real shell** you can type into (press <kbd>`</kbd>).
 
+Built from scratch, no UI library, no tracking. **[Source](https://github.com/joeyvigil/joeyvigil.github.io)** &nbsp;·&nbsp; React 19 · TypeScript · Vite · Tailwind v4
+
 <a href="https://joeyvigil.github.io">
   <img src="assets/portfolio.gif" alt="joeyvigil.github.io — a tour through the sections, the built-in shell running neofetch, and live theme switching" width="100%">
 </a>
@@ -101,11 +103,10 @@ Android · React Native · Expo SDK 57 · TypeScript · Closed-source
 
 ### 🚀 **About Me**
 
-- 🟢 **[Charmed](https://github.com/joeyvigil/charmed-dating)** — a full-stack dating app (FastAPI · React · React Native · real-time WebSockets), live in production on a $0 cloud stack with 122 tests + CI
-- 🤖 **AI Engineer** — built LLM-powered apps and tools with **LangChain**, **LangGraph**, **Ollama**, and vector databases
+- 🤖 **AI Engineer** — LLM-powered apps and tools with **LangChain**, **LangGraph**, **Ollama**, and vector databases
+- 🐍 **Full-stack end to end** — Python/FastAPI back ends, React/React Native front ends, Postgres, Docker, CI, and small deploys on **AWS**
+- 📱 **Ships to phones** — React Native and Godot on Android, from release signing through the Play listing
 - 🔧 **Master's in Mechatronics Engineering** — robotics, embedded systems, CAD, and 3D printing (see **[k3yb0rg](https://github.com/joeyvigil/k3yb0rg)**)
-- 🐍 Full-stack end to end: Python/FastAPI back ends, React/React Native front ends, Postgres, Docker, and small deploys on **AWS** — with CI
-- 🖥️ My **[portfolio](https://joeyvigil.github.io)** is a terminal-flavored site built from scratch — React 19 · TypeScript · Vite · Tailwind v4, no UI library, no tracking (**[source](https://github.com/joeyvigil/joeyvigil.github.io)**)
 - 🎲 Building small products through **[Squeak Inc. Games](https://squeakincgames.com/)**
 
 ### 🛠️ **Tech Stack**
