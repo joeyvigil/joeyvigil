@@ -111,4 +111,4 @@ Android · React Native · Expo SDK 57 · TypeScript · Closed-source
 
 ### 🛠️ **Tech Stack**
 
-[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,bash,fastapi,flask,spring,hibernate,nodejs,react,angular,vite,tailwind,bootstrap,materialui,godot,postgres,mysql,sqlite,aws,docker,kubernetes,githubactions,vercel,linux,git,github,maven,postman,selenium,arduino,vscode&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,java,js,ts,html,css,bash,fastapi,flask,spring,hibernate,nodejs,react,angular,vite,tailwind,bootstrap,materialui,godot,postgres,mysql,sqlite,aws,docker,kubernetes,githubactions,vercel,linux,git,github,maven,gradle,postman,selenium,arduino,vscode&perline=12)](https://skillicons.dev)
