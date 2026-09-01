@@ -97,16 +97,53 @@ Android · React Native · Expo SDK 57 · TypeScript · Closed-source
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🦆 [Ducky Tech Interview](https://github.com/joeyvigil/ducky-tech-interview)
+
+<a href="https://github.com/joeyvigil/ducky-tech-interview"><img src="assets/ducky.png" width="100%" alt="Ducky Tech Interview — pick a topic, answer out loud, get graded against a rubric"></a>
+
+Mock tech interviews the rubber-duck way — a question is **read aloud**, you **answer out loud**, and your spoken answer is transcribed and **graded against a rubric by a local LLM**. Runs fully offline on **Ollama**; rubrics and model answers stay server-side so you can't peek. Swap the grader model from the home page.
+
+**[Source](https://github.com/joeyvigil/ducky-tech-interview)** &nbsp;·&nbsp; FastAPI · Ollama · React · Vite · Web Speech API · SQLite
+
+</td>
+<td width="50%" valign="top">
+
+#### ⌨️ [k3yb0rg](https://github.com/joeyvigil/k3yb0rg)
+
+<a href="https://github.com/joeyvigil/k3yb0rg"><img src="assets/k3yb0rg.jpg" width="100%" alt="k3yb0rg — a 3D-printed, hand-wired 49-key mechanical keyboard"></a>
+
+A **3D-printable, hand-wired 49-key mechanical keyboard** inspired by the v4n4g0n ergo layout — printed case, hand-soldered switch matrix, and a Pro Micro running **QMK**. The repo is the full build guide: print, wire, flash, assemble, and remap the layers.
+
+**[Build guide](https://github.com/joeyvigil/k3yb0rg)** &nbsp;·&nbsp; QMK · ATmega32U4 · CAD · 3D printing
+
+</td>
+</tr>
 </table>
+
+---
+
+### 🐧 **Terminal & Omarchy**
+
+Small things I actually use every day, packaged so other people can install them too.
+
+- 🎛️ **[omasettings](https://github.com/joeyvigil/omasettings)** — a terminal UI for [Omarchy](https://omarchy.org) settings: theme, keybindings, displays, audio, notifications, all in one menu. **[On the AUR](https://aur.archlinux.org/packages/omasettings)** (`yay -S omasettings`) and in Omarchy's install menu. *Shell*
+- 📌 **[omarchy-taskbar](https://github.com/joeyvigil/omarchy-taskbar)** — pinned app icons for the Omarchy bar. Click to launch or focus, with running-state indicators; pin and unpin from the bar itself, no config editing. *QML*
+- 🐟 **[cfish](https://github.com/joeyvigil/cfish)** — a terminal aquarium in the spirit of `cmatrix` and `cbonsai`: fish swim across your terminal trailing bubbles and wake. `yay -S cfish`. *C · ncurses*
+- 📖 **[cnovel](https://github.com/joeyvigil/cnovel)** — a terminal screensaver that writes a novel one keystroke at a time, at the cadence of a real typist — bursts, pauses, and the occasional backspaced typo. `yay -S cnovel`. *C · ncurses*
+- 🍇 **[dionysus](https://github.com/joeyvigil/omarchy-dionysus-theme)** — an Omarchy theme derived from PewDiePie's `dionysus` Hyprland rice: a One Dark / Nord hybrid keyed on neon cyan, carried into terminal, bar, lock screen, btop, Helix, Neovim, and VS Code.
 
 ---
 
 ### 🚀 **About Me**
 
-- 🤖 **AI Engineer** — LLM-powered apps and tools with **LangChain**, **LangGraph**, **Ollama**, and vector databases
+- 🤖 **AI Engineer** — LLM-powered apps and tools with **LangChain**, **LangGraph**, **Ollama**, and vector databases (see **[Ducky](https://github.com/joeyvigil/ducky-tech-interview)**, graded end to end by a local model)
 - 🐍 **Full-stack end to end** — Python/FastAPI back ends, React/React Native front ends, Postgres, Docker, CI, and small deploys on **AWS**
 - 📱 **Ships to phones** — React Native and Godot on Android, from release signing through the Play listing
-- 🔧 **Master's in Mechatronics Engineering** — robotics, embedded systems, CAD, and 3D printing (see **[k3yb0rg](https://github.com/joeyvigil/k3yb0rg)**)
+- 🔧 **Master's in Mechatronics Engineering** — robotics, embedded systems, CAD, and 3D printing
+- 🐧 **Terminal-first on Arch/Omarchy** — and I package what I build: two AUR releases and an Omarchy bar plugin
 - 🎲 Building small products through **[Squeak Inc. Games](https://squeakincgames.com/)**
 
 ### 🛠️ **Tech Stack**
