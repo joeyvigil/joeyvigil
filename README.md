@@ -87,13 +87,13 @@ Paste SQL `CREATE TABLE` statements and get back a **runnable FastAPI app** — 
 </td>
 <td width="50%" valign="top">
 
-#### 📻 radi.sh — Terminal Internet Radio
+#### 📻 [radi.sh — Terminal Internet Radio](https://play.google.com/store/apps/details?id=sh.radi.app)
 
-<img src="assets/radish.png" width="100%" alt="radi.sh — 50,000 radio stations, behind a command line">
+<a href="https://play.google.com/store/apps/details?id=sh.radi.app"><img src="assets/radish.png" width="100%" alt="radi.sh — 50,000 radio stations, behind a command line"></a>
 
 A **terminal-aesthetic radio player** for Android — ~50,000 stations from the community Radio Browser directory, driven by a vim-style `:` command line. A **real** 512-point FFT spectrum analyser drawn from decoded PCM, now-playing titles read straight off the ICY stream, background playback with lock-screen controls, and 32 colour themes. 13 runtime dependencies — no UI kit, no state library, no nav library.
 
-Android · React Native · Expo SDK 57 · TypeScript · Closed-source
+**[Live on Google Play](https://play.google.com/store/apps/details?id=sh.radi.app)** · Android · React Native · Expo SDK 57 · TypeScript · Closed-source
 
 </td>
 </tr>
